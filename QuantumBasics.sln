@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuantumBasics.Superposition", "QuantumBasics.Superposition\QuantumBasics.Superposition.csproj", "{17B8F1CD-6AAA-49B5-ACB7-70B226E0BAC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuantumBasics.Entanglement", "QuantumBasics.Entanglement\QuantumBasics.Entanglement.csproj", "{FDDD2165-3503-4340-BE4E-CB39ABBC2D94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuantumBasics.Teleportation", "QuantumBasics.Teleportation\QuantumBasics.Teleportation.csproj", "{C711220D-FC34-4BD9-A243-6A8BDDD0076D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17B8F1CD-6AAA-49B5-ACB7-70B226E0BAC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17B8F1CD-6AAA-49B5-ACB7-70B226E0BAC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17B8F1CD-6AAA-49B5-ACB7-70B226E0BAC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17B8F1CD-6AAA-49B5-ACB7-70B226E0BAC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDDD2165-3503-4340-BE4E-CB39ABBC2D94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDDD2165-3503-4340-BE4E-CB39ABBC2D94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDDD2165-3503-4340-BE4E-CB39ABBC2D94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDDD2165-3503-4340-BE4E-CB39ABBC2D94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C711220D-FC34-4BD9-A243-6A8BDDD0076D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C711220D-FC34-4BD9-A243-6A8BDDD0076D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C711220D-FC34-4BD9-A243-6A8BDDD0076D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C711220D-FC34-4BD9-A243-6A8BDDD0076D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D494BBA1-A0D3-4D19-BD2F-387429E55D2C}
+	EndGlobalSection
+EndGlobal
