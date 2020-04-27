@@ -1,6 +1,8 @@
 # Quantum Basics using Q#
 This is a basic project investigating Microsoft QDE (Q# and Simulator)
 
+![Image console applications](https://github.com/mariusvrstr/QuantumBasics/blob/master/images/Excecution.PNG?raw=true)
+
 *Installation*
 	• Install the latest version of Visual Studio Community (Can also use VS Code but this example with focus on VS)
 	• Install the latest Q# extension for Visual Studio
